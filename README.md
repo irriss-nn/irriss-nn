@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Iris Du</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://community.codenewbie.org/images/LED5sy-T4bBQ85w2aogJf_Br_NeyXAd5y3Y-j50L_vg/s:1000:420/mb:500000/ar:1/aHR0cHM6Ly9jb21t/dW5pdHkuY29kZW5l/d2JpZS5vcmcvcmVt/b3RlaW1hZ2VzL3Vw/bG9hZHMvYXJ0aWNs/ZXMvZDI5dTJxYmFo/a2FpODdnZ3l3NG4u/Z2lm”>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif”>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irriss-nn&label=Profile%20views&color=0e75b6&style=flat" alt="irriss-nn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irriss-nn" alt="irriss-nn" /></a> </p>

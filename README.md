@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Pathfinder version 2** [here](https://drive.google.com/file/d/17RdHuhrUoT-Z8m2xoi6QRR6goPSTslrC/view?usp=sharing)
 

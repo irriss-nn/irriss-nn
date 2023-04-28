@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Iris Du</h1>
-<h3 align="center">A passionate full-stack developer</h3>
-<img align="center" alt="Coding" width="600" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif">
-<p align="left" <img src="https://komarev.com/ghpvc/?username=irriss-nn&label=Profile%20views&color=0e75b6&style=flat" alt="irriss-nn" /> 
+<h2 align="center">A Passionate Full Stack Developer</h2>
+<h3 align="center"><img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif">
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irriss-nn" alt="irriss-nn" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irriss-nn&label=Profile%20views&color=0e75b6&style=flat" alt="irriss-nn" /> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irriss-nn" alt="irriss-nn" /></a> 
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Iris Du</h1>
 <h2 align="center">A Passionate Full Stack Developer</h2>
 <h3 align="center"><img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif">
-![UML](image/iris.gif)
+  <img align="center" alt="Coding" width="400" src="image/iris.gif">
+
 </h3>
 
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iris Du</h1>
 <h2 align="center">A Passionate Full Stack Developer</h2>
-<h3 align="center"><img align="left" alt="Coding" width="300" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif">
+<h3 align="center"><img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif">
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irriss-nn&label=Profile%20views&color=0e75b6&style=flat" alt="irriss-nn" /> 

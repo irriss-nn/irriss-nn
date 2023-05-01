@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **weitong@ualberta.ca**
 
-- 📄 Know about my experiences [irriss-nn.github.io](irriss-nn.github.io)
+- 📄 Know about my experiences at [My Portfolio](https://irriss-nn.github.io/))
 
 - ⚡ Fun fact **I love cats and have 2 lovely cats.**
 

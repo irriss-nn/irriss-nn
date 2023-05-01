@@ -11,7 +11,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at  [gitHub.com/irriss-nn](gitHub.com/irriss-nn)
+- 👨‍💻 All of my projects are available at  [My Github](https://github.com/irriss-nn)
 
 - 💬 Ask me about **Backend, Frontend, Python, Java, C, C++, Javascript, Android Studio**
 

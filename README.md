@@ -9,17 +9,15 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Pathfinder version 2** [here](https://drive.google.com/file/d/17RdHuhrUoT-Z8m2xoi6QRR6goPSTslrC/view?usp=sharing)
 
-- 🌱 I’m currently learning **Node js and Next js**
 
-- 👨‍💻 All of my projects are available at [irriss-nn.github.io](irriss-nn.github.io)
+- 👨‍💻 All of my projects are available at  [gitHub.com/irriss-nn](gitHub.com/irriss-nn)
 
 - 💬 Ask me about **Backend, Frontend, Python, Java, C, C++, Javascript, Android Studio**
 
 - 📫 How to reach me **weitong@ualberta.ca**
 
-- 📄 Know about my experiences [gitHub.com/irriss-nn](gitHub.com/irriss-nn)
+- 📄 Know about my experiences [irriss-nn.github.io](irriss-nn.github.io)
 
 - ⚡ Fun fact **I love cats and have 2 lovely cats.**
 
